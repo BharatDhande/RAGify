@@ -10,7 +10,6 @@ RAG Based LLM AI Chatbot Built using Open Source Stack (Llama 3.2 Model, BGE Emb
 - **📂 Upload Documents**: Easily upload and preview your PDF documents within the app.
 - **🧠 Create Embeddings**: Generate embeddings for your documents to enable efficient search and retrieval.
 - **🤖 Chatbot Interface**: Interact with your documents using a smart chatbot that leverages the created embeddings.
-- **📧 Contact**: Get in touch with the developer or contribute to the project on GitHub.
 - **🌟 User-Friendly Interface**: Enjoy a sleek and intuitive UI with emojis and responsive design for enhanced user experience.
 
 ## 🖥️ Tech Stack
@@ -31,7 +30,7 @@ The Document Buddy App leverages a combination of cutting-edge technologies to d
 
 ## 📁 Directory Structure
 
-document_buddy_app/
+RAG-BASED-LLM-CHATBOT
 ```
 │── logo.png
 ├── new.py
